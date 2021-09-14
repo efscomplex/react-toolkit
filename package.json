@@ -1,6 +1,7 @@
 {
-  "name": "@efs/react-toolkit",
+  "name": "@efsdev/react-toolkit",
   "version": "1.0.0",
+  "private": false,
   "main": "src/index.ts",
   "repository": "https://github.com/efscomplex/react-toolkit",
   "license": "MIT",
