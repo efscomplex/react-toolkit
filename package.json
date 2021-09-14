@@ -2,11 +2,15 @@
   "name": "@efsdev/react-toolkit",
   "version": "1.0.0",
   "private": false,
-  "main": "src/index.ts",
+  "main": "dist/index.ts",
   "repository": "https://github.com/efscomplex/react-toolkit",
   "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
   "dependencies": {
-    "react": "^17.0.2"
+    "react": "^17.0.2",
+    "typescript": "^4.4.3"
   },
   "devDependencies": {
     "@types/react": "^17.0.20"
