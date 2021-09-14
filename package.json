@@ -1,5 +1,5 @@
 {
-  "name": "@easydev/react-toolkit",
+  "name": "@efs/react-toolkit",
   "version": "1.0.0",
   "main": "src/index.ts",
   "repository": "https://github.com/efscomplex/react-toolkit",
